@@ -608,7 +608,7 @@ export default function Home() {
                   </div>
                 </div>
 
-                <div className="flex items-center justify-start gap-2 md:justify-end">
+                <div className="flex items-center justify-center gap-2">
                   <button
                     type="button"
                     onClick={prevTrack}
